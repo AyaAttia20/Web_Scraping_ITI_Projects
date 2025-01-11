@@ -9,7 +9,8 @@
 
 ## amazon website to extract The bestseller books data like book name , book author ,rate ,price  and book image.
 
-![image](https://github.com/user-attachments/assets/918ba21f-6cd5-4f88-b58f-06bb23c657ae)
+![image](https://github.com/user-attachments/assets/8203682c-1b9b-4a29-a876-b831b357a852)
+
 
 ## Scraping movies data from box_office_mojo website like movie rate movie name, ,moive lifetime and movie release year.
 
